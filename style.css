@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+#start-btn {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: darkblue;
+    font-family: 'Oswald', sans-serif;
+    width: 25%;
+}
+
+#camera {
+    width: 350px;
+    height: 270px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    background-color: darkgray;
+}
+
+#logo_img {
+    width: 150px;
+    border-radius: 100px;
+}
+
+#textbox {
+    width: 300px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#title,
+#note,
+#lol,
+#label,
+#yes,
+#more,
+#no {
+    font-family: 'Oswald', sans-serif;
+}
+
+#header {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: whitesmoke;
+    width: 60%;
+    margin-top: 2%;
+}
+
+#cont {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: whitesmoke;
+    width: 60%;
+    margin-top: 2%;
+}
+
+#result {
+    width: 350px;
+    height: 270px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    background-color: darkgray;
+}
+
+#live {
+    text-align: center;
+    width: 320px;
+    height: 240px;
+}
+
+#selfie_img {
+    text-align: center;
+    width: 340px;
+    height: 260px;
+}
